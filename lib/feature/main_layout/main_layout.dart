@@ -1,10 +1,10 @@
-import 'package:evently/core/resourese/colors_manager.dart';
-import 'package:evently/core/routes_manager/routes_manager.dart';
-import 'package:evently/feature/main_layout/tabs/favorite/favorite_tab.dart';
-import 'package:evently/feature/main_layout/tabs/home/home_tab.dart';
-import 'package:evently/feature/main_layout/tabs/map/map_tab.dart';
-import 'package:evently/feature/main_layout/tabs/profile/profile_tab.dart';
-import 'package:evently/l10n/app_localizations.dart';
+import 'package:evently_app_app/core/resourese/colors_manager.dart';
+import 'package:evently_app_app/core/routes_manager/routes_manager.dart';
+import 'package:evently_app_app/feature/main_layout/tabs/favorite/favorite_tab.dart';
+import 'package:evently_app_app/feature/main_layout/tabs/home/home_tab.dart';
+import 'package:evently_app_app/feature/main_layout/tabs/map/map_tab.dart';
+import 'package:evently_app_app/feature/main_layout/tabs/profile/profile_tab.dart';
+import 'package:evently_app_app/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 
 class MainLayout extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'dart:ffi';
 
-import 'package:evently/core/resourese/constant_manager.dart';
+import 'package:evently_app_app/core/resourese/constant_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

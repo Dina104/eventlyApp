@@ -1,12 +1,12 @@
 
-import 'package:evently_app/config/theme/Theme_Manager.dart';
-import 'package:evently/core/prefs_manager/prefs_manager.dart';
-import 'package:evently/core/routes_manager/routes_manager.dart';
-import 'package:evently/firebase_service/firebase_service.dart';
-import 'package:evently/l10n/app_localizations.dart';
-import 'package:evently/models/user_model.dart';
-import 'package:evently/providers/language_provider.dart';
-import 'package:evently/providers/theme_provider.dart';
+import 'package:evently_app_app/config/theme/Theme_Manager.dart';
+import 'package:evently_app_app/core/prefs_manager/prefs_manager.dart';
+import 'package:evently_app_app/core/routes_manager/routes_manager.dart';
+import 'package:evently_app_app/firebase_service/firebase_service.dart';
+import 'package:evently_app_app/l10n/app_localizations.dart';
+import 'package:evently_app_app/models/user_model.dart';
+import 'package:evently_app_app/providers/language_provider.dart';
+import 'package:evently_app_app/providers/theme_provider.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -29,13 +29,13 @@ void main() async {
         ChangeNotifierProvider(create: (context) => ThemeProvider()),
         ChangeNotifierProvider(create: (context) => LanguageProvider()),
       ],
-      child: const Evently(),
+      child: const evently_app_app(),
     ),
   );
 }
 
-class Evently extends StatelessWidget {
-  const Evently({super.key});
+class evently_app_app extends StatelessWidget {
+  const evently_app_app({super.key});
 
   @override
   Widget build(BuildContext context) {

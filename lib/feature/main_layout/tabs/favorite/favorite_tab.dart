@@ -1,8 +1,8 @@
-import 'package:evently/core/resourese/colors_manager.dart';
-import 'package:evently/feature/main_layout/tabs/home/event_item.dart';
-import 'package:evently/firebase_service/firebase_service.dart';
-import 'package:evently/l10n/app_localizations.dart';
-import 'package:evently/models/event_model.dart';
+import 'package:evently_app_app/core/resourese/colors_manager.dart';
+import 'package:evently_app_app/feature/main_layout/tabs/home/event_item.dart';
+import 'package:evently_app_app/firebase_service/firebase_service.dart';
+import 'package:evently_app_app/l10n/app_localizations.dart';
+import 'package:evently_app_app/models/event_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

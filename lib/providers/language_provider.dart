@@ -1,4 +1,4 @@
-import 'package:evently/core/prefs_manager/prefs_manager.dart';
+import 'package:evently_app_app/core/prefs_manager/prefs_manager.dart';
 import 'package:flutter/widgets.dart';
 
 class LanguageProvider extends ChangeNotifier {

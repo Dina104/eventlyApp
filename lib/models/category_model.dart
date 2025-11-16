@@ -1,5 +1,5 @@
-import 'package:evently/core/resourese/assets_manager.dart';
-import 'package:evently/l10n/app_localizations.dart';
+import 'package:evently_app_app/core/resourese/assets_manager.dart';
+import 'package:evently_app_app/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 
 class CategoryModel {

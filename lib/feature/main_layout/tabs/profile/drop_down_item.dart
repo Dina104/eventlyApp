@@ -1,4 +1,4 @@
-import 'package:evently/core/resourese/colors_manager.dart';
+import 'package:evently_app_app/core/resourese/colors_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

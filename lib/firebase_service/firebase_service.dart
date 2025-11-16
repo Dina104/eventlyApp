@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:evently/models/category_model.dart';
-import 'package:evently/models/event_model.dart';
-import 'package:evently/models/user_model.dart';
+import 'package:evently_app_app/models/category_model.dart';
+import 'package:evently_app_app/models/event_model.dart';
+import 'package:evently_app_app/models/user_model.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 

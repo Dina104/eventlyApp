@@ -1,7 +1,7 @@
-import 'package:evently/feature/auth/login/login.dart';
-import 'package:evently/feature/auth/register/register.dart';
-import 'package:evently/feature/create_event/create_event.dart';
-import 'package:evently/feature/main_layout/main_layout.dart';
+import 'package:evently_app_app/feature/auth/login/login.dart';
+import 'package:evently_app_app/feature/auth/register/register.dart';
+import 'package:evently_app_app/feature/create_event/create_event.dart';
+import 'package:evently_app_app/feature/main_layout/main_layout.dart';
 import 'package:flutter/cupertino.dart';
 
 abstract class RoutesManager {

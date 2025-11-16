@@ -1,8 +1,8 @@
-import 'package:evently/core/extentions/date_time_ex.dart';
-import 'package:evently/core/resourese/assets_manager.dart';
-import 'package:evently/core/resourese/colors_manager.dart';
-import 'package:evently/firebase_service/firebase_service.dart';
-import 'package:evently/models/event_model.dart';
+import 'package:evently_app_app/core/extentions/date_time_ex.dart';
+import 'package:evently_app_app/core/resourese/assets_manager.dart';
+import 'package:evently_app_app/core/resourese/colors_manager.dart';
+import 'package:evently_app_app/firebase_service/firebase_service.dart';
+import 'package:evently_app_app/models/event_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
